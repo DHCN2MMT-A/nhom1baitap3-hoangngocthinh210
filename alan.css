@@ -20,7 +20,7 @@ img {
     margin-left: 40%  ;
     border-radius: 50%;
     width: 20%;
-    height: 15%;
+    height: 16%;
 }
 .centermain  {
     font-style: oblique;
@@ -66,3 +66,23 @@ h3{
    font-size: 20px;
 }
 
+.spl-linka {
+    color: #FFF8DC;
+    padding : 5px ;
+    background-color:#8B8B83;
+    text-decoration: none;
+}
+.spl-linkb {
+    
+    padding: 5px;
+    background-color:#FFA54F;
+    color: #FFF8DC;
+    text-decoration: none;
+}
+
+
+
+iframe{
+	margin-left: 0%;
+	width: 60%;
+}
