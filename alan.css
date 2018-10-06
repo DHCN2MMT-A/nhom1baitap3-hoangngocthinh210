@@ -45,7 +45,14 @@ p {
     color: red;
 }
 
-
+h3{
+    
+    text-decoration: underline;
+	color: blue;
+	font-family: arial;
+	
+	
+}
 
 .interesting{
     padding-left: 25%;
